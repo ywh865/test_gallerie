@@ -1,4 +1,4 @@
-# hexo_gallerie使用说明(test)
+# hexo_gallerie使用说明
 ## 1、添加【相册】菜单
 #### 这里要修改几个文件：
 * 主题的配置文件_config.yml ，在menu下添加以下代码:
